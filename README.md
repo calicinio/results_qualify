@@ -2,7 +2,7 @@
 Imagens dos resultados obtidos no projeto de Doutorado (fase qualificação) no PPGIT - UFMG
 
 
-#Organização do repositório
+## Organização do repositório
 
 Os desse repositório estão organizados em pastas. 
 As pastas "A" e "B" referem-se aos resultados do grupo A e B, respectivamente.
